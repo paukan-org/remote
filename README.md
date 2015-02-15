@@ -1,3 +1,3 @@
-# [![Build Status](https://travis-ci.org/paukan-org/paukan-events.svg)](https://travis-ci.org/paukan-org/paukan-events) paukan-events
+# [![Build Status](https://travis-ci.org/paukan-org/remote.svg?branch=master)](https://travis-ci.org/paukan-org/remote) paukan-events
 
 Pick events from external services and push into network
