@@ -1,0 +1,22 @@
+{
+  "name": "paukan-remote",
+  "version": "0.0.1",
+  "description": "Pick events from external services and push into network",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:paukan-org/remote.git"
+  },
+  "dependencies": {
+    "paukan-core": "*",
+    "websocket-eventemitter2": "*"
+  },
+  "devDependencies": {
+      "mocha": "^2.1.0"
+  },
+  "scripts": {
+      "test": "./node_modules/.bin/mocha --bail"
+  },
+  "homepage": "https://github.com/paukan-org/remote",
+  "author": "Andrey Afoninskiy <vkfont@gmail.com>",
+  "license": "Apache"
+}

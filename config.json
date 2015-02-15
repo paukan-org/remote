@@ -1,0 +1,9 @@
+{
+    "id": "remote",
+    "type": "proxy",
+    "sources": {
+        "ifttt": {
+            "url": "ws://ifttt.paukan.org:2001"
+        }
+    }
+}
